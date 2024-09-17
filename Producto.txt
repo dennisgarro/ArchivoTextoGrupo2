@@ -10,3 +10,19 @@ Nombre: c
 Precio: 3.0
 Cantidad: 3
 ---------------------------------------
+Nombre: Dias
+Precio: 3.0
+Cantidad: 3
+---------------------------------------
+Nombre: Peñaloza
+Precio: 3.0
+Cantidad: 3
+---------------------------------------
+Nombre: Petro
+Precio: 1.0
+Cantidad: 1
+---------------------------------------
+Nombre: sam
+Precio: 3.0
+Cantidad: 3
+---------------------------------------

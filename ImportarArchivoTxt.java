@@ -29,16 +29,14 @@ public class ImportarArchivoTxt {
                     }
                 }
             }
-            // Asegurarse de agregar el último producto si el archivo no termina con un
-            // separador
-            if (producto != null) {
-                productos.add(producto);
-            }
+
             System.out.println("Archivo importado correctamente.");
         } catch (IOException e) {
             e.printStackTrace();
         }
 
         return productos;
+
     }
+
 }
